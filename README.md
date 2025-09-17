@@ -2,8 +2,8 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJsdGphZnM5eWx5cGF6dDk5bTU1endocXNidTFoZHVjZDlqcDEwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zKAUwFIbFiKAyCrKjZ/giphy.gif" width="200"/>
 </div>
 <h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Добро пожаловать!
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlsNzR2Zm80cW4wbGZpY2NqNm52Y3ZkYnhyd2F5Nm1nc2prb294aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IhQLcuiKt622s/giphy.gif" width="30px"/>
 </h1>
 
 ### :woman_technologist: About Me :
@@ -16,6 +16,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -25,5 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadezhdaMartin)](https://github.com/anuraghazra/github-readme-stats)
