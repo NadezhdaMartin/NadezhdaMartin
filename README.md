@@ -1,23 +1,20 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJsdGphZnM5eWx5cGF6dDk5bTU1endocXNidTFoZHVjZDlqcDEwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zKAUwFIbFiKAyCrKjZ/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmw5Y2F0d3ZqbzR3eGw3eHQ3NXUzaTJsY2l1aHA1c25rMDFydW91ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 <h1 align="center">
   Добро пожаловать!
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlsNzR2Zm80cW4wbGZpY2NqNm52Y3ZkYnhyd2F5Nm1nc2prb294aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IhQLcuiKt622s/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
+### :woman_technologist: Обо мне:
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :books: Обучаюсь с апреля 2025г. на онлайн курсах ЯндексПрактикум по направлению "Фронтенд-разработчик".
 
-- :seedling: Exploring Technical Content Writing.
+- :computer: Знаю HTML, CSS, JavaScript.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :zap: Здесь мои учебные проекты.
 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Стек технологий:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
