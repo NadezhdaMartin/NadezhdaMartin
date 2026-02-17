@@ -7,11 +7,14 @@
 
 ### :woman_technologist: Обо мне:
 
-- :books: Обучаюсь с апреля 2025г. на онлайн курсах ЯндексПрактикум по направлению "Фронтенд-разработчик".
+:books: Начинающий фронтенд-разработчик, увлечёна созданием красивых и функциональных веб-интерфейсов. Сейчас активно изучаю HTML, CSS, JavaScript и React.js, участвуя в учебных проектах, которые помогают развивать мои навыки и расширять знания.  
 
-- :computer: Знаю HTML, CSS, JavaScript.
+:computer: Умею:
+- Верстка адаптивных макетов (HTML/CSS);  
+- Базовая работа с JavaScript и создание интерактивных элементов интерфейса;  
+- Разработка на React.js с использованием TypeScript, Redux Toolkit и других библиотек, что обеспечивает высокое качество кода, надежность, производительность и удобство поддержки проекта.
 
-- :open_file_folder: Здесь мои учебные проекты.
+:open_file_folder: Пока мой опыт ограничивается учебными проектами, но я постоянно совершенствуюсь и готова браться за новые интересные задачи.
 
 
 ### :hammer_and_wrench: Стек технологий:
@@ -22,6 +25,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS/SCSS" **alt="SASS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" **alt="Vite" width="40" height="40"/>
 </div>
 
 
